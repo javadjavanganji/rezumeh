@@ -1,28 +1,24 @@
 
-### reza habibzadeh
-<a href="https://uupload.ir/view/us1d_whatsapp_image_2021-01-09_at_22.03.02.jpeg" target="_blank"><img src="https://uupload.ir/files/us1d_whatsapp_image_2021-01-09_at_22.03.02_thumb.jpeg" border="0" alt="آپلود عکس" /></a>
+### javad javan ganji
 
 ### Personal informations
 
 ---
-+ name: reza
-+ last name : habibzadeh
-+ Date of birth : 1379/03/13
-+ Computer Engineering student
++ name: javad
++ last name : javan ganji
++ Date of birth : 1378/09/29
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ Computer repairs
-+ Electronic
 
 
 ### Education
 
 ---
-+ Diploma : panezdah khordad high school
++ Diploma : emam hasan mojtaba high school
 + Bachelor of science : Computer Engineering
 _ payam Noor University of rey 
 
@@ -36,15 +32,14 @@ _ payam Noor University of rey
 ### Favorites
 
 ---
-+ Electronic
-+ Electricity
-+ travel 
-+ Computer Repairs
++ web 
++ sport
++ teravel
 
 ### working Experience
 
 ---
-+ I am working in Computer Repairs - Printers - CCTV - Smart Home.
++ I am working office post
 
 
 
